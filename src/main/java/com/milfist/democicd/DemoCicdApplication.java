@@ -8,6 +8,11 @@ public class DemoCicdApplication {
 
   public static void main(String[] args) {
     SpringApplication.run(DemoCicdApplication.class, args);
+
+    System.out.print("obj");
+    System.out.print("obj");
+    System.out.print("obj");
+    System.out.print("obj");
   }
 
 }

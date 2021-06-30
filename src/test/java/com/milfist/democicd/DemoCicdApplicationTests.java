@@ -8,6 +8,10 @@ class DemoCicdApplicationTests {
 
   @Test
   void contextLoads() {
+      System.out.print("obj");
+      System.out.print("obj");
+      System.out.print("obj");
+      System.out.print("obj");
   }
 
 }
